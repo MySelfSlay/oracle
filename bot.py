@@ -1,9 +1,9 @@
-displayName = 'arm-vps'
+displayName = 'node2-arm'
 compartmentId = 'ocid1.tenancy.oc1..aaaaaaaahztmj4xvnk444i6jb5gojxqtllztnywxaqejbq5ma7q5gb7gkteq'
 availabilityDomain = "Sqnq:AP-HYDERABAD-1-AD-1"
-imageId = "ocid1.image.oc1.ap-hyderabad-1.aaaaaaaa7mljy2gm6ijs64pakcn3bfhz6etpashxd2gtfl6z4ibbbmqloi4q"
+imageId = "ocid1.image.oc1.ap-hyderabad-1.aaaaaaaasvngrh46jozz2uzs4wliqhjaf4ztzwljdpx47urdnffdqlodxgaa"
 subnetId = 'ocid1.subnet.oc1.ap-hyderabad-1.aaaaaaaam63a5a4vsyr7cm2sfjyflzn6cfsrlofzn3xdtdzmdz7nzowh6nya'
-ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCuA7A7jklFQapFMePK1BF52KuLrOVg9odxWTrrtebpEp/vomjsTKetvX8RnhzyHygUz3eEuHUYc/Exbs1gOydeZwdbD4PzO3elT6p6sRfGm0mRAUuBb6hkncghgdJ4q6ghmehi6Oysd49oZPnl5/c9yhMGemCl5SWk+HhoJGzvI7sM6fUo2jk186vhnHa+Z857z8FCmz/s8NGujFypzUHyV8ds3obe7L826X9QwDSF5lpmZ8LHca0wEhzWvXx5Xf2wCTbVmiYBv9AQgr7ySguC/WXhPx+tqop7pZLqHHROiC7vqjluN5gSC9GXfXzvMI2t9PA43wxT0utgATUcVnlb ssh-key-2023-02-23"
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDY6s0vsXFMsq1WYsK8Xr0KLNSlElP0wnbhcgn3/6WFEKQNGRNPfb3uDYVFu0EE5hOrQs/OMwPF1vR3MPp+8u8kZUQ82TASIVHHotN/K7Tn6ssHKOVj0trQgDTMSxIR9mUnpPkO3JwkzA6a99E9/DJ52aArFHeNdbNA420tM7BCx+xLK/HnAH3ldC5I44WGCUstMQmP87lijhJ1ulAS6NjVt6E0xB2FCS9mpMdIInRBtkCKqZdpbidgkhV+PtGSu1iF6mo7bfyT6vZuFiArEsnrHaVWFQiVoeUv/prmBWVKYFYu5IWTy48Z1umG2P6aiGjUVCcKxrw5Xd8sWvubQu1h ssh-key-2023-05-25"
 
 import os
 os.system("pip install oci")
