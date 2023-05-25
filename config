@@ -1,6 +1,6 @@
 [DEFAULT]
 user=ocid1.user.oc1..aaaaaaaas3cy7m3v3lqwbtz536kfdpj4fy3mayznlezbfd3zmeejapkz4uka
-fingerprint=4b:26:6c:66:63:23:15:5b:2d:7b:f9:0b:1e:94:d6:bb
+fingerprint=e6:cd:de:92:05:31:e5:c7:c4:ed:1a:d9:66:ae:f6:9b
 tenancy=ocid1.tenancy.oc1..aaaaaaaahztmj4xvnk444i6jb5gojxqtllztnywxaqejbq5ma7q5gb7gkteq
 region=ap-hyderabad-1
-key_file=oci_private_key.pem
+key_file=<path to your private keyfile> # TODO
